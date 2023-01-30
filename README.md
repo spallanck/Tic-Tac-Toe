@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This project contains a Windows Forms application of Tic Tac Toe
+This project contains a Windows Forms application of Tic Tac Toe that allows a user to play a game against an AI player that is implemented using the Minimax algorithm. The game also contains a feature to watch the AI play against itself. To access this feature, select Game Options, and then Computer v Computer and specify the number of games the computer should play, and the number of seconds between each turn.
